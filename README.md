@@ -1,4 +1,4 @@
 ProgChallenges
 ==============
 
-Programming Challenges from various websites (using C++/C/Java/Python).
+Programming Challenges from TalentBuddy, CodeForces and Timus (using C++/C/Java/Python).
